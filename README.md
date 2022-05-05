@@ -1,16 +1,16 @@
 ### Project Name
 
-  # Web accessibility check milestone 6 
+  # Build the Figma template with Bootstap 
 
 ## Built With
 
     - HTML
-    - CSS
+    - Bootstrap
 
 
 ## Getting Started  
 
-  This project at deploying the Portfolio Desktop and mobile version online.
+  This project at building the Portfolio Desktop using Bootstrap.
 
   Please follow the steps below for getting started and editing the files from your local machine.
 
@@ -47,11 +47,9 @@
     
 ## Usage
 
-    In the sixth milestone of your portfolio website, you will:
+    In this milestone of your portfolio website, you will be:
 
-    - evaluate your website against accessibility best practices and implement any necessary    changes to ensure that your website is accessible.
-
-
+    - Creating a prototype of the portfolio website from scratch using bootstrap and CSS frameworks.
 
 👤 Author
 
@@ -71,11 +69,6 @@ Link to the Live website
      https://massaillon.github.io/setup-and-mobile-version-skeleton/
 
 🤝 Contributing
-
-Thanks to Winfred Edube for making  contributions on the following:
-  - Add alternative text to the arrow button in framework arrow button
-  -  Add alternative text to the arrow button in skills arrow button
-  - Change text color for the form button to ensure accessibility
 
   
 Contributions, issues, and feature requests are welcome!
